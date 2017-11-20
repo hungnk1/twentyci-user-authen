@@ -1,5 +1,5 @@
 {
-  "name": "twentyci/authentication",
+  "name": "twentyci/user-authen",
   "description": "To prevent access to the frontend of a website for unauthenticated (not logged in) users",
   "type": "magento2-module",
   "version": "2.0.0",
@@ -26,12 +26,6 @@
       "TwentyCI\\Authentication\\": ""
     }
   },
-  "repositories": [
-     {
-       "type": "vcs",
-       "url": "https://github.com/hungnk1/TwentyCI"
-     }
-  ],
   "minimum-stability": "alpha",
   "prefer-stable": true
 }
